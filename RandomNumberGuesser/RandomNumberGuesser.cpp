@@ -44,7 +44,7 @@ int main()
         std::cout << "Current ranger is: " << lower << " - " << upper << "\n";
     }
 
-    std::cout << "You win! The random number is: " << randomNum << "\n";
+    std::cout << "You win!! The random number is: " << randomNum << "\n";
     system("pause");
 
     return 0;
